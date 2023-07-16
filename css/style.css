@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-size: 2.1875rem;
+}
+
+button {
+    width: 15.625rem;
+    height: 5rem;
+    background-color: blue;
+    color: white;
+    border-radius: .625rem;
+    -webkit-border-radius: .625rem;
+    -moz-border-radius: .625rem;
+    -ms-border-radius: .625rem;
+    -o-border-radius: .625rem;
+}
+
+button:hover {
+    background-color: green;
+}
